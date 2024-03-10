@@ -1,0 +1,5 @@
+starter-custom-logger:
+  author: CustomerLogger-Default
+  enabled: true
+  level: INFO
+  pattern: "[%d{HH:mm:ss.SSS}] [%-5level] [%logger{36}] - %msg%n"
